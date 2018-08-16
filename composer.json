@@ -1,0 +1,24 @@
+{
+    "name": "wow-php/umeng-notification",
+    "description": "umeng nitification sdk for php",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wow\\UPush\\" : "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EnHe",
+            "email": "info@wowphp.cn",
+            "homepage": "https://www.wowphp.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
